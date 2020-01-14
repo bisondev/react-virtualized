@@ -42,8 +42,7 @@
     }
   },
   "files": [
-    "dist",
-    "styles.css"
+    "source"
   ],
   "repository": {
     "type": "git",
